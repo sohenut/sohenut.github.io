@@ -1,6 +1,6 @@
 ---
 # Display name
-title: lee jun ho
+title: 이준호(李晙鎬)
 
 # Is this the primary user of the site?
 superuser: true
