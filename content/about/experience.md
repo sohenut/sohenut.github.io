@@ -29,7 +29,13 @@ experience:
     location: ''
     date_start: '2024-10-5'
     date_end: ''
-    description: hugo 라이브러리를 이용해 나를 소개하는 웹사이트 만들기
+    description: |2-
+        정보:
+        
+        * 전공
+        * 관심사
+        * 취미
+        * 교육
 
   - title: petner 앱 프로젝트
     company: petner github
