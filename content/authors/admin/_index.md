@@ -44,11 +44,15 @@ education:
     institution: Jeonbuk National University
     year: 2022~
 
-hobbies:
-  - Reading Books
-  - Playing Computer Games
-  - Animation Tracing
-  - Working Out at the Gym
+skills:
+  - name: Reading Books
+    icon: 📚
+  - name: Playing Computer Games
+    icon: 🎮
+  - name: Animation Tracing
+    icon: ✏️
+  - name: Working Out at the Gym
+    icon: 🏋️
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
