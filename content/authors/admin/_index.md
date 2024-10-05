@@ -27,6 +27,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
  - Artificial Intelligence
  - Web Service Design
+ - Game Design
  
 
 education:
