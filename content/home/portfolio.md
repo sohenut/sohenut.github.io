@@ -28,12 +28,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    - name: 독서
+      tag: book
+    - name: 트레이싱
+      tag: animation
+    - name: 운동
+      tag: gym
 
 design:
   columns: '1'

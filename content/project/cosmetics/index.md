@@ -1,8 +1,8 @@
 ---
-title: Cosmetics Semantic Search
-summary: Write about your project here...
+title: 운동
+summary: 내가 가는 헬스장
 tags:
-  - NLP
-date: 2022-01-01
-external_link: http://github.com
+  - gym
+date: ''
+external_link: https://map.naver.com/p/entry/place/1534593730?placePath=%252Fhome%253Fentry%253Dplt&searchType=place&lng=127.0770346&lat=35.8708316&c=15.00,0,0,0,dh
 ---

@@ -1,8 +1,8 @@
 ---
-title: Cartoon Face Generator
-summary: Write about your project here...
+title: 애미메이션 트레이싱
+summary: 내가 작품을 올리는 카페(활동이름 워렌머핏)
 tags:
-  - CV
-date: 2022-01-01
-external_link: http://github.com
+  - animation
+date: ''
+external_link: https://cafe.naver.com/chogca
 ---
