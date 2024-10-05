@@ -10,7 +10,7 @@ last_name: 이
 superuser: true
 
 # Role/position
-role: ''
+role: 'College student'
 
 # Status emoji
 status:
