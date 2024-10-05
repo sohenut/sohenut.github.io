@@ -25,9 +25,9 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
- - Artificial Intelligence
- - Web Service Design
- - Game Design
+ - 인공지능(AI)
+ - 웹서비스설계
+ - 게임설계
 
 skills:
   - name: Reading Books
