@@ -1,8 +1,8 @@
 ---
-title: Recommendation Systems
-summary: Write about your project here...
+title: 독서
+summary: 내가 애용하는 도서관
 tags:
-  - ML
-date: 2022-01-01
-external_link: http://github.com
+  - book
+date: ''
+external_link: https://dl.jbnu.ac.kr/
 ---
