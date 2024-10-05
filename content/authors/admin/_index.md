@@ -41,17 +41,17 @@ skills:
 
 education:
   courses:
-  - course: Primary Education
-    institution: Jeonju Jochon Elementary School
+  - course: 초등교육
+    institution: 전주조촌초등학교
     year: 2010~2015
-  - course: Secondary Education
-    institution: Jeonbuk Middle School
+  - course: 중등교육
+    institution: 전북중학교
     year: 2016~2018
-  - course: higher education
-    institution: Woosuk High School
+  - course: 고등교육
+    institution: 우석고등학교
     year: 2019~2021
-  - course: Computer Science
-    institution: Jeonbuk National University
+  - course: 컴퓨터과학
+    institution: 전북대학교
     year: 2022~
 
 # Social/Academic Networking
