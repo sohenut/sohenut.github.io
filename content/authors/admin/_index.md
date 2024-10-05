@@ -10,7 +10,7 @@ last_name: 이
 superuser: true
 
 # Role/position
-role: 'College student'
+role: '대학생'
 
 # Status emoji
 status:
@@ -18,7 +18,7 @@ status:
 
 # Organizations/Affiliations
 organizations:
- - name: Jeonbuk National University Csai
+ - name: 전북대 컴퓨터인공지능학부
    url: "https://csai.jbnu.ac.kr/csai/index.do"
 
 # Short bio (displayed in user profile at end of posts)
