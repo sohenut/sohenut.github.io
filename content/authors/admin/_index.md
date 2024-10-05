@@ -2,6 +2,10 @@
 # Display name
 title: 이준호(李晙鎬)
 
+# Full name (for SEO)
+first_name: 준호
+last_name: 이
+
 # Is this the primary user of the site?
 superuser: true
 
