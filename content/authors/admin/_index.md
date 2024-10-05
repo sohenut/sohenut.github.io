@@ -29,6 +29,16 @@ interests:
  - Web Service Design
  - Game Design
 
+skills:
+  - name: Reading Books
+    icon: 📚
+  - name: Playing Computer Games
+    icon: 🎮
+  - name: Animation Tracing
+    icon: ✏️
+  - name: Working Out at the Gym
+    icon: 🏋️
+
 education:
   courses:
   - course: Primary Education
@@ -43,16 +53,6 @@ education:
   - course: Computer Science
     institution: Jeonbuk National University
     year: 2022~
-
-skills:
-  - name: Reading Books
-    icon: 📚
-  - name: Playing Computer Games
-    icon: 🎮
-  - name: Animation Tracing
-    icon: ✏️
-  - name: Working Out at the Gym
-    icon: 🏋️
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
