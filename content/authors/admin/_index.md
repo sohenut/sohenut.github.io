@@ -84,4 +84,3 @@ social:
 
 저의 취미는 독서, 헬스, 컴퓨터 게임, 애니메이션 트레이싱입니다.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
