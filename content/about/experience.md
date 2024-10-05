@@ -22,22 +22,17 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: 내 포트폴리오 웹사이트 만들기
+    company: portfolio github
+    company_url: 'https://github.com/sohenut/sohenut.github.io'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: ''
+    date_start: '2024-10-5'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description: hugo 라이브러리를 이용해 나를 소개하는 웹사이트 만들기
 
   - title: petner 앱 프로젝트
-    company: 전북대학교
+    company: petner github
     company_url: 'https://github.com/dlsrks0631/petner_mobile_app'
     company_logo: org-x
     location: ''
