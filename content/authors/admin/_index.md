@@ -17,9 +17,9 @@ status:
   icon: 💻
 
 # Organizations/Affiliations
-#organizations:
-#- name: 腾讯
-#  url: ""
+organizations:
+ - name: Jeonbuk National University
+   url: "https://www.jbnu.ac.kr/kor/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
