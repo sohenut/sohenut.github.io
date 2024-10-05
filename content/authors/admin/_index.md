@@ -31,15 +31,18 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Primary Education
+    institution: Jeonju Jochon Elementary School
+    year: 2010~2015
+  - course: Secondary Education
+    institution: Jeonbuk Middle School
+    year: 2016~2018
+  - course: higher education
+    institution: Woosuk High School
+    year: 2019~2021
+  - course: Computer Science
+    institution: Jeonbuk National University
+    year: 2022~
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
