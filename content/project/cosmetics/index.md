@@ -1,6 +1,6 @@
 ---
 title: 운동
-summary: 내가 가는 헬스장
+summary: 내가 가는 헬스장. 일주일에 네 번 이상은 감.
 tags:
   - gym
 date: ''
