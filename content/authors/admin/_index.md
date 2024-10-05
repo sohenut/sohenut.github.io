@@ -28,7 +28,6 @@ interests:
  - Artificial Intelligence
  - Web Service Design
  - Game Design
- 
 
 education:
   courses:
@@ -44,6 +43,12 @@ education:
   - course: Computer Science
     institution: Jeonbuk National University
     year: 2022~
+
+hobbies:
+  - Reading Books
+  - Playing Computer Games
+  - Animation Tracing
+  - Working Out at the Gym
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
