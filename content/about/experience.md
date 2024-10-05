@@ -30,12 +30,11 @@ experience:
     date_start: '2024-10-5'
     date_end: ''
     description: |2-
-        정보:
+        Responsibilities include:
         
-        * 전공
-        * 관심사
-        * 취미
-        * 교육
+        * Analysing
+        * Modelling
+        * Deploying
 
   - title: petner 앱 프로젝트
     company: petner github
